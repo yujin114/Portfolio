@@ -7,9 +7,9 @@
 
 📌 Contact
 
-이메일: rhep0828@gmail.com
-블로그: https://ryan-han.com
-깃헙: https://github.com/integerous
+- 이메일: yujin01140913@gmail.com
+- 노션: https://www.notion.so/Portfolio-20c9242e3ab080069bfee714921f3554?source=copy_link
+- 깃헙: https://github.com/yujin114
 
 
 📌 Projects
