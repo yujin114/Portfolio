@@ -1,18 +1,18 @@
 # Portfolio
 
 
-📌 Intro
+### 📌 Intro
 
 (여기에 자기 소개)
 
-📌 Contact
+### 📌 Contact
 
 - 이메일: yujin01140913@gmail.com
 - 노션: https://www.notion.so/Portfolio-20c9242e3ab080069bfee714921f3554?source=copy_link
 - 깃헙: https://github.com/yujin114
 
 
-📌 Projects
+### 📌 Projects
 1. goQuality
 
     고퀄리티 개발 컨텐츠 공유 서비스 (개인 프로젝트)
