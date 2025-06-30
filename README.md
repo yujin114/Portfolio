@@ -1,18 +1,18 @@
 # Portfolio
 
 
-📌 Intro
+##📌 Intro
 
 (여기에 자기 소개)
 
-📌 Contact
+##📌 Contact
 
-    이메일: rhep0828@gmail.com
-    블로그: https://ryan-han.com
-    깃헙: https://github.com/integerous
+이메일: rhep0828@gmail.com
+블로그: https://ryan-han.com
+깃헙: https://github.com/integerous
 
 
-📌 Projects
+##📌 Projects
 1. goQuality
 
     고퀄리티 개발 컨텐츠 공유 서비스 (개인 프로젝트)
