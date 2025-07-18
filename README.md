@@ -10,3 +10,13 @@
 - 이메일: yujin01140913@gmail.com
 - 노션: https://www.notion.so/Portfolio-20c9242e3ab080069bfee714921f3554?source=copy_link
 - 깃헙: https://github.com/yujin114
+
+
+### Skills
+
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</p>
