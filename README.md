@@ -12,7 +12,7 @@
 - 깃헙: https://github.com/yujin114
 
 
-### Skills
+### 💪 Skills
 
 <p>
   <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
