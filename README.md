@@ -13,9 +13,13 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ansys-FFB71B?style=for-the-badge&logo=ansys&logoColor=white"/>
-  <a href="https://www.notion.so/Portfolio-20c9242e3ab080069bfee714921f3554?source=copy_link"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white&link=https://www.notion.so/Portfolio-20c9242e3ab080069bfee714921f3554?source=copy_link"></a>
 </p>
 
+## Tools
+<p>
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://www.notion.so/Portfolio-20c9242e3ab080069bfee714921f3554?source=copy_link"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white&link=https://www.notion.so/Portfolio-20c9242e3ab080069bfee714921f3554?source=copy_link"></a>
+</p>
 
 ### 📌 Contact
 
