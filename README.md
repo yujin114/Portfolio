@@ -20,4 +20,3 @@
 ### 📌 Contact
 
 - ✉️ yujin01140913@gmail.com
-- notion: https://www.notion.so/Portfolio-20c9242e3ab080069bfee714921f3554?source=copy_link
